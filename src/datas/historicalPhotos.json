@@ -1,0 +1,355 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "The Gilbert U-238 Atomic Energy Lab Kit for Kids that Came with Actual Radioactive Materials",
+        "date": "1950",
+        "img": "gilbert-atomic-energy-lab-kit-kids-01.webp",
+        "description": "Cette photographie représente le kit de laboratoire pour enfants Gilbert U-238 Atomic Energy, qui contenait de véritables matériaux radioactifs. Sorti en 1950, ce kit visait à familiariser les enfants avec les concepts de l'énergie atomique."
+      },
+      {
+        "id": 2,
+        "name": "mobile radiophone service",
+        "date": "1946",
+        "img": "carphones-2.jpg",
+        "description": "Cette photographie témoigne du service de radiotéléphonie mobile mis en place en 1946. Il s'agissait d'une avancée technologique importante à l'époque, permettant aux utilisateurs de communiquer par téléphone sans fil depuis des véhicules en mouvement."
+      },
+      {
+        "id": 3,
+        "name": "warsaw in ruins",
+        "date": "1945",
+        "img": "warsaw-in-ruins.webp",
+        "description": "Cette photographie montre les ruines de Varsovie en 1945, à la suite des destructions massives causées pendant la Seconde Guerre mondiale. Elle témoigne des conséquences dévastatrices du conflit sur la ville et ses habitants."
+      },
+      {
+        "id": 4,
+        "name": "japan old photo",
+        "date": "1908",
+        "img": "japan-old-photos.webp",
+        "description": "Ces anciennes photos du Japon prises en 1908 offrent un aperçu précieux de la vie et de la culture japonaises à cette époque. Elles capturent des scènes de la vie quotidienne, des paysages et des traditions uniques du pays."
+      },
+      {
+        "id": 5,
+        "name": "Laika-dog-in-space",
+        "date": "1958",
+        "img": "Laika-dog-in-space-08.webp",
+        "description": "Cette photographie emblématique montre Laïka, le premier être vivant à orbiter autour de la Terre. En 1957, Laïka, une chienne, a été envoyée dans l'espace à bord du vaisseau spatial soviétique Spoutnik 2, ouvrant ainsi la voie à l'exploration spatiale animale."
+      },
+      {
+        "id": 6,
+        "name": "Première photographie, Saône-et-Loire, Bourgogne, France",
+        "date": "1826",
+        "img": "first-photo- Saône-et-Loire-bourgogne-France.webp",
+        "description": "Cette photographie prise en 1826 est considérée comme la plus ancienne photographie existante. Elle a été capturée par Nicéphore Niépce en utilisant une technique appelée héliographie, marquant ainsi le début de la photographie."
+      },
+      {
+        "id": 7,
+        "name": "The First Daguerreotype Photograph",
+        "date": "1837",
+        "img": "The-First-Daguerreotype-Photograph.webp",
+        "description": "Cette photographie est le premier daguerréotype jamais réalisé. Elle a été créée par Louis Daguerre en 1837 et représente une vue de la ville de Paris. Le daguerréotype était l'un des premiers procédés photographiques et a ouvert la voie à de nouvelles possibilités artistiques."
+      },
+      {
+        "id": 8,
+        "name": "The First Color Photograph",
+        "date": "1861",
+        "img": "The-First-Color-Photograph.webp",
+        "description": "Cette photographie marque un jalon important dans l'histoire de la photographie, étant la première photographie en couleur jamais réalisée. Elle a été prise par James Clerk Maxwell en 1861 en utilisant le procédé des trois filtres, jetant ainsi les bases de la photographie couleur moderne."
+      },
+      {
+        "id": 9,
+        "name": "First Photo Ever Uploaded on the Internet",
+        "date": "1992",
+        "img": "First-Photo-Ever-Uploaded-on-the-Internet.webp",
+        "description": "Cette photographie est la première photo jamais téléchargée sur Internet. Elle a été prise par Silvano de Cennaro en 1992 et montre un groupe de chanteuses du groupe Les Horribles Cernettes. Cette image symbolise le début de la diffusion d'images à travers le World Wide Web."
+      },
+      {
+        "id": 10,
+        "name": "The Pet Rock",
+        "date": "1975",
+        "img": "Pet-rock-craze-04.webp",
+        "description": "Cette photographie représente le phénomène culturel du 'Pet Rock' (rocher de compagnie) qui a eu lieu en 1975. Gary Dahl a lancé cette idée de vendre des rochers comme animaux de compagnie, ce qui a suscité un intérêt surprenant à l'époque."
+      },
+      {
+        "id": 11,
+        "name": "The last sword duel in history, France",
+        "date": "1967",
+        "img": "Last_Sword_Duel_2.jpg",
+        "description": "Cette photographie capture le dernier duel à l'épée de l'histoire. Elle a été prise en France en 1967 et montre les duellistes François Duprat et Gaston Defferre se préparant à s'affronter dans un duel codifié par le Code d'honneur français."
+      },
+      {
+        "id": 12,
+        "name": "Man peers out from a latticework covered balcony",
+        "date": "1920",
+        "img": "A-man-peers-out-from-a-latticework-covered-balcony,egypt.jpg",
+        "description": "Cette photographie captivante prise en 1920 montre un homme qui observe depuis un balcon recouvert de treillis. Elle crée une ambiance mystérieuse et offre un aperçu de la vie urbaine à cette époque."
+      },
+      {
+        "id": 13,
+        "name": "Early tourists visiting the Pyramids",
+        "date": "1900",
+        "img": "early-tourist-pyramids-ancient-egypt.jpg",
+        "description": "Cette photographie datant de 1900 montre des touristes visitant les pyramides d'Égypte. Elle témoigne de l'attrait intemporel des pyramides et de l'intérêt des voyageurs pour les merveilles du monde antique."
+      },
+      {
+        "id": 14,
+        "name": "'Star Wars' behind the scenes",
+        "date": "1977",
+        "img": "'Star Wars' behind the scenes.jpg",
+        "description": "Cette photographie en coulisses a été prise lors du tournage du film 'Star Wars' en 1977. Elle offre un aperçu des coulisses de la création de l'une des franchises cinématographiques les plus emblématiques de tous les temps."
+      },
+      {
+        "id": 15,
+        "name": "behind the scenes 'Jaws'",
+        "date": "1975",
+        "img": "Jaws Behind the scenes photos.jpg",
+        "description": "Cette photographie en coulisses a été prise lors du tournage du film 'Jaws' en 1975. Elle montre le réalisateur Steven Spielberg en train de travailler sur une scène du célèbre film sur les requins, offrant un aperçu du processus de création du film."
+      },
+      {
+        "id": 16,
+        "name": "Bizarre Tobacco Advertising",
+        "date": "1920",
+        "img": "Bizarre Tobacco Advertising.jpg",
+        "description": "Cette photographie de publicité pour le tabac datant des années 1920 montre une approche publicitaire inhabituelle de l'époque. Elle témoigne des techniques de marketing utilisées à cette époque et de l'évolution des normes sociales entourant la publicité du tabac."
+      },
+      {
+        "id": 17,
+        "name": "Lunch Atop A Skyscraper",
+        "date": "1932",
+        "img": "Lunch Atop A Skyscraper.jpg",
+        "description": "Cette célèbre photographie prise en 1932, intitulée 'Lunch Atop A Skyscraper', montre des ouvriers prenant leur pause-déjeuner sur une poutre d'acier suspendue en haut d'un gratte-ciel en construction à New York. Elle capture le courage et l'audace de ces travailleurs."
+      },
+      {
+        "id": 18,
+        "name": "Tank Man",
+        "date": "1989",
+        "img": "tankman.jpg",
+        "description": "Cette image emblématique a été capturée lors des manifestations de la place Tian'anmen en 1989. Elle montre un homme solitaire faisant face à une colonne de chars, symbolisant la lutte pour la liberté et les droits de l'homme."
+      },
+      {
+        "id": 19,
+        "name": "Falling Man",
+        "date": "2001",
+        "img": "Falling Man.jpg",
+        "description": "Cette photographie tragique a été prise le 11 septembre 2001 lors des attaques terroristes contre le World Trade Center. Elle montre un homme tombant du bâtiment, symbolisant la tragédie et l'impact émotionnel de cet événement dévastateur."
+      },
+      {
+        "id": 20,
+        "name": "Pillars Of Creation",
+        "date": "1995",
+        "img": "Pillars Of Creation.jpg",
+        "description": "Cette image captivante, appelée 'Pillars Of Creation', a été capturée par le télescope spatial Hubble en 1995. Elle montre des colonnes de gaz et de poussière dans la nébuleuse de l'Aigle, révélant la beauté et la complexité de l'univers."
+      },
+      {
+        "id": 21,
+        "name": "A Man On The Moon",
+        "date": "1969",
+        "img": "A Man On The Moon.jpg",
+        "description": "Cette photographie historique a été prise lors de la mission Apollo 11 en 1969, montrant un astronaute sur la surface de la Lune. Elle symbolise la conquête de l'espace et l'accomplissement remarquable de l'humanité."
+      },
+      {
+        "id": 22,
+        "name": "The Hindenburg Disaster",
+        "date": "1937",
+        "img": "The Hindenburg Disaster.jpg",
+        "description": "Cette photographie immortalise la catastrophe du Hindenburg, qui s'est produit en 1937 lorsque le dirigeable allemand Hindenburg a pris feu et s'est écrasé à Lakehurst, dans le New Jersey. L'image capture l'instant dramatique de l'incendie, symbolisant la fin de l'ère des dirigeables."
+      },
+      {
+        "id": 23,
+        "name": "Dalí Atomicus",
+        "date": "1948",
+        "img": "Dalí Atomicus.jpg",
+        "description": "Cette photographie célèbre, intitulée 'Dalí Atomicus', a été réalisée en 1948 par Philippe Halsman en collaboration avec l'artiste Salvador Dalí. Elle présente Dalí en suspension dans les airs, avec des objets en suspension également, créant une illusion surréaliste captivante."
+      },
+      {
+        "id": 24,
+        "name": "First Cell-Phone Picture",
+        "date": "1997",
+        "img": "First Cell-Phone Picture.jpg",
+        "description": "Cette photographie est la première image jamais prise avec un téléphone portable. Elle a été capturée en 1997 par Philippe Kahn, qui a inventé le système de partage d'images directement depuis un téléphone mobile, marquant une avancée majeure dans la technologie de la photographie."
+      },
+      {
+        "id": 25,
+        "name": "Muhammad Ali Vs. Sonny Liston",
+        "date": "1965",
+        "img": "Muhammad Ali Vs. Sonny Liston.jpg",
+        "description": "Cette photographie iconique représente le combat légendaire entre Muhammad Ali (alors connu sous le nom de Cassius Clay) et Sonny Liston en 1965. L'image capture le moment où Ali célèbre sa victoire, devenant le plus jeune champion du monde des poids lourds à l'époque."
+      },
+      {
+        "id": 26,
+        "name": "The Loch Ness Monster",
+        "date": "1934",
+        "img": "The Loch Ness Monster.jpg",
+        "description": "Cette photographie est l'une des plus célèbres prises du monstre du Loch Ness en Écosse. Elle a été capturée en 1934 par le chirurgien R.K. Wilson et a suscité de nombreuses spéculations et débats sur l'existence de cette créature légendaire."
+      },
+      {
+        "id": 27,
+        "name": "Shooting Michael Jordan for LIFE",
+        "date": "1984",
+        "img": "Shooting Michael Jordan for LIFE.jpg",
+        "description": "Cette photographie emblématique montre le célèbre joueur de basket-ball Michael Jordan en train de poser pour une séance de photos pour le magazine LIFE en 1984. L'image capture la grâce et l'athlétisme de Jordan, qui est devenu l'une des icônes sportives les plus emblématiques de tous les temps."
+      },
+      {
+        "id": 28,
+        "name": "North Korea",
+        "date": "2013",
+        "img": "North Korea.jpg",
+        "description": "Cette photographie offre un rare aperçu de la vie en Corée du Nord. Prise en 2013, elle montre la ville de Pyongyang avec son architecture unique et ses grands espaces publics, offrant un aperçu du quotidien dans l'un des pays les plus fermés au monde."
+      },
+      {
+        "id": 29,
+        "name": "Oscars Selfie",
+        "date": "2014",
+        "img": "Oscars Selfie.jpg",
+        "description": "Cette célèbre 'selfie' a été prise lors de la cérémonie des Oscars en 2014. L'acteur et animateur Ellen DeGeneres a rassemblé plusieurs célébrités pour une photo de groupe spontanée, devenant ainsi l'un des selfies les plus retweetés et partagés de l'histoire."
+      },
+      {
+        "id": 30,
+        "name": "Release of the iPod",
+        "date": "2001",
+        "img": "Release of the iPod.webp",
+        "description": "Cette photographie marque le lancement de l'iPod en 2001, le baladeur numérique révolutionnaire d'Apple. L'image capture l'excitation entourant l'arrivée d'un appareil qui allait transformer la façon dont nous écoutons de la musique et bouleverser l'industrie de la musique."
+      },
+      {
+        "id": 31,
+        "name": "The eruption of the Eyjafjallajökull glacier volcano",
+        "date": "2010",
+        "img": "The eruption of glacier volcano.jpg",
+        "description": "Cette photographie impressionnante a été prise lors de l'éruption du volcan Eyjafjallajökull en Islande en 2010. L'image capture la puissance et la beauté destructrice de l'éruption volcanique, qui a eu un impact majeur sur les voyages aériens en Europe."
+      },
+      {
+        "id": 32,
+        "name": "A housing crisis gripped the nation",
+        "date": "2011",
+        "img": "a housing crisis gripped the nation.jpg",
+        "description": "Cette photographie représente la crise du logement qui a touché la nation en 2011. L'image met en évidence les difficultés rencontrées par de nombreuses personnes pour accéder à un logement abordable, mettant en lumière un problème social majeur de notre époque."
+      },
+      {
+        "id": 33,
+        "name": "The devastation from Typhoon Haiyan",
+        "date": "2013",
+        "img": "The devastation from Typhoon Haiyan.jpg",
+        "description": "Cette photographie témoigne de la dévastation causée par le typhon Haiyan aux Philippines en 2013. Elle montre l'ampleur des destructions et rappelle les conséquences dévastatrices des catastrophes naturelles sur les communautés et l'environnement."
+      },
+      {
+        "id": 34,
+        "name": "Usain Bolt of Jamaica smiled",
+        "date": "2016",
+        "img": "Usain Bolt of Jamaica smiled.jpg",
+        "description": "Cette photographie capture le célèbre sprinteur jamaïcain Usain Bolt en train de sourire lors d'une compétition. Elle reflète l'aura de confiance et de joie qui entoure Bolt, considéré comme l'un des plus grands athlètes de tous les temps."
+      },
+      {
+        "id": 35,
+        "name": "Gameboy release",
+        "date": "1989",
+        "img": "gameboy.webp",
+        "description": ""
+      },
+      {
+        "id": 36,
+        "name": "Couronnement de la reine Elizabeth II",
+        "date": "1953",
+        "img": "Le-couronnement-de-la-reine-Elizabeth-II.jpg",
+        "description": ""
+      },
+      {
+        "id": 37,
+        "name": "FREE BRITNEY",
+        "date": "2021",
+        "img": "freebritney.jpg",
+        "description": ""
+      },
+      {
+        "id": 38,
+        "name": "#METOO",
+        "date": "2017",
+        "img": "metoo.jpg",
+        "description": ""
+      },
+      {
+        "id": 39,
+        "name": "EURO",
+        "date": "2001",
+        "img": "LE-FRANC-PASSAGE-A-LEURO.webp",
+        "description": ""
+      },
+      {
+        "id": 40,
+        "name": "Bob l'éponge, le premier épisode",
+        "date": "1999",
+        "img": "boblepongefirstep.jpg",
+        "description": ""
+      },
+      {
+        "id": 41,
+        "name": "Miss France",
+        "date": "1991",
+        "img": "missfrance.jpg",
+        "description": ""
+      },
+      {
+        "id": 42,
+        "name": "Légendaire coup de boule de Zinedine Zidane",
+        "date": "2006",
+        "img": "coupdeboule.jpg",
+        "description": ""
+      },
+      {
+        "id": 43,
+        "name": "Victoire de la france à la CDM",
+        "date": "2018",
+        "img": "victoirefrancecdm.webp",
+        "description": ""
+      },
+      {
+        "id": 44,
+        "name": "Photo-club de Paris",
+        "date": "1888",
+        "img": "Photo-club_de_Paris_Régamey_front.png",
+        "description": ""
+      },
+      {
+        "id": 45,
+        "name": "Marilyn Monroe",
+        "date": "1952",
+        "img": "marilynmonroe.jpg",
+        "description": ""
+      },
+      {
+        "id": 46,
+        "name": "Jobs présente la nouvelle sortie : l'Iphone",
+        "date": "2007",
+        "img": "apple_iphone_jobs.jpg",
+        "description": ""
+      },
+      {
+        "id": 47,
+        "name": "Einstein",
+        "date": "1951",
+        "img": "einstein.jpg",
+        "description": ""
+      },
+      {
+        "id": 48,
+        "name": "GP Explorer",
+        "date": "2022",
+        "img": "gpexplorer1.jpg",
+        "description": ""
+      },
+      {
+        "id": 49,
+        "name": "Coeur de Voh de Yann Arthus Bertrand",
+        "date": "1990",
+        "img": "photo-extraordinaire.webp",
+        "description": ""
+      },
+      {
+        "id": 50,
+        "name": "Fond d'écran Windows",
+        "date": "1995",
+        "img": "photo-pc-window.webp",
+        "description": ""
+      }
+    ]
+  }
+  
