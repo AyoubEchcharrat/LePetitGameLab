@@ -12,9 +12,9 @@ import Findate from './pages/Findate';
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route>
-      <Route path='/*' element={<App />} />
-      <Route path='/flagame' element={<Flagame />} />
-      <Route path='/findate' element={<Findate />} />
+      <Route path='/LePetitGameLab/' element={<App />} />
+      <Route path='/LePetitGameLab/flagame' element={<Flagame />} />
+      <Route path='/LePetitGameLab/findate' element={<Findate />} />
     </Route>
   )
 )

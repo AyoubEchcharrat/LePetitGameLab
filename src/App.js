@@ -13,10 +13,10 @@ function App() {
     <div className="App">
       <h1 className='title'>Trinqil</h1>
       <div className='home-mode-container'>
-        <div className='home-mode' onClick={() => navigateTo('/findate')}>
+        <div className='home-mode' onClick={() => navigateTo('/LePetitGameLab/findate')}>
           <h2> FinDate</h2>
         </div>
-        <div className='home-mode' onClick={() => navigateTo('/flagame')}>
+        <div className='home-mode' onClick={() => navigateTo('/LePetitGameLab/flagame')}>
           <h2> FlaGames</h2>
         </div>
       </div>

@@ -7,7 +7,7 @@ export default function Flagame(){
 
     return(
     <div className='flagame'>
-        <Link to='/' >Retour</Link>
+        <Link to='/LePetitGameLab/' >Retour</Link>
         <Marathon />
     </div>)
 }

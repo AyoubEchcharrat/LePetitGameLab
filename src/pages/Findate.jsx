@@ -4,7 +4,7 @@ import FindateGamemode from "./FindateGamemode"
 export default function Findate(){
     return(       
     <div className="gamemode_findate">
-        <Link to='/' >Retour</Link>
+        <Link to='/LePetitGameLab/' >Retour</Link>
         <h1>FinDate</h1>
         <FindateGamemode/>
     </div>)
