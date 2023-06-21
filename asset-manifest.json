@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LePetitGameLab/static/css/main.9542174c.css",
-    "main.js": "/LePetitGameLab/static/js/main.60628866.js",
+    "main.js": "/LePetitGameLab/static/js/main.d28640d8.js",
     "static/js/787.9ef9b7a5.chunk.js": "/LePetitGameLab/static/js/787.9ef9b7a5.chunk.js",
     "index.html": "/LePetitGameLab/index.html",
     "main.9542174c.css.map": "/LePetitGameLab/static/css/main.9542174c.css.map",
-    "main.60628866.js.map": "/LePetitGameLab/static/js/main.60628866.js.map",
+    "main.d28640d8.js.map": "/LePetitGameLab/static/js/main.d28640d8.js.map",
     "787.9ef9b7a5.chunk.js.map": "/LePetitGameLab/static/js/787.9ef9b7a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9542174c.css",
-    "static/js/main.60628866.js"
+    "static/js/main.d28640d8.js"
   ]
 }
