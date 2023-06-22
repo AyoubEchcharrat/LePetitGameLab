@@ -122,7 +122,7 @@ export default function FindateGamemode() {
                 { ImageIndexs.length > 0 ? 
                 <div>
                     <h1>{displayOnePhotoName()}</h1>
-                    <img className='img-findate' src={`/assets/historicalPhotos/${displayOnePhotoImage()}`} alt='img' /> 
+                    <img className='img-findate' src={`/LePetitGameLab/assets/historicalPhotos/${displayOnePhotoImage()}`} alt='img' /> 
                 </div>
                 :
                 <div>Chargement des données ...</div>
@@ -144,7 +144,7 @@ export default function FindateGamemode() {
                     <div>Ton meilleur score est de {localStorage.getItem('findate-bestScore')}</div>
                     {results.map((element,index) =>
                         <div key={index}>
-                            <img className='img-findate' src={`/assets/historicalPhotos/${element.image}`} alt='' />
+                            <img className='img-findate' src={`/LePetitGameLab/assets/historicalPhotos/${element.image}`} alt='' />
                             <div className='real-date-result'>Real date : {element.date}</div>
                             <div className='guess-date-result'>Your guessed date : {element.guess}</div>
                             <div className='score-added-result'>Score earned : {element.scoretoAdd}</div>
