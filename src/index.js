@@ -6,8 +6,8 @@ import reportWebVitals from './reportWebVitals';
 import { Provider } from 'react-redux';
 import { store } from './datas/store';
 import { Route, RouterProvider, createBrowserRouter, createRoutesFromElements } from 'react-router-dom';
-import Flagame from './pages/Flagame';
-import Findate from './pages/Findate';
+import Flagame from './pages/Flagame/Flagame';
+import Findate from './pages/Findate/Findate';
 
 const router = createBrowserRouter(
   createRoutesFromElements(

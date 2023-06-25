@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
-import historicalPhotos from '../datas/historicalPhotos.json'
-import { setImageIndex, setPlaying, setdatesend,setScore,setIndex,setReset,setResults,setDeleteOneIndex } from "../features/findateSlice"
+import historicalPhotos from '../../datas/historicalPhotos.json'
+import { setImageIndex, setPlaying, setdatesend,setScore,setIndex,setReset,setResults,setDeleteOneIndex } from "../../features/findateSlice"
 import { useDispatch, useSelector } from "react-redux"
 
 export default function FindateGamemode() {

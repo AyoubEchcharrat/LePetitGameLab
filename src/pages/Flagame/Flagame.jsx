@@ -1,5 +1,5 @@
 import Marathon from './marathon/Marathon';
-import '../index.css';
+import '../../index.css';
 import { Link } from 'react-router-dom';
 
 

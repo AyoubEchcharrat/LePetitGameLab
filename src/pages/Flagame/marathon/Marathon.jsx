@@ -1,7 +1,7 @@
 import { useRef,useEffect } from "react"
-import { setCurrent, setIsPlaying, setTime, setLose, Timer, ResetingTimer, ResetingGame, setFind, setScore } from "../../features/marathonSlice"
+import { setCurrent, setIsPlaying, setTime, setLose, Timer, ResetingTimer, ResetingGame, setFind, setScore } from "../../../features/marathonSlice"
 import { useDispatch, useSelector } from "react-redux"
-import flag from '../../datas/drapeaux.json'
+import flag from '../../../datas/drapeaux.json'
 
 export default function Marathon() {
 
