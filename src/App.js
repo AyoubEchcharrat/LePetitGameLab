@@ -14,10 +14,13 @@ function App() {
       <h1 className='title'>Trinqil</h1>
       <div className='home-mode-container'>
         <div className='home-mode' onClick={() => navigateTo('/LePetitGameLab/findate')}>
-          <h2> FinDate</h2>
+          <h2>FinDate</h2>
         </div>
         <div className='home-mode' onClick={() => navigateTo('/LePetitGameLab/flagame')}>
-          <h2> FlaGames</h2>
+          <h2>FlaGame</h2>
+        </div>
+        <div className='home-mode' onClick={() => navigateTo('/LePetitGameLab/squareDash')}>
+          <h2>SquareDash</h2>
         </div>
       </div>
     </div>
