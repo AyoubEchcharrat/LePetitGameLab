@@ -151,7 +151,7 @@ export default function FindateGamemode() {
                 </div>
             :
             <div className='player-container-findate'>
-                <p className='width'>
+                <p className='width'> 
 Bienvenue dans "FinDate"! 📅 Un défi en cinq images où votre mission est de marier chaque visuel avec sa date correspondante. À la fin de chaque partie, votre score s'affiche. Trouvez les bonnes dates, faites-le à votre rythme, et visez le meilleur score! Prêt à jouer? 🚀📆</p>
                 <button className='button-style-ONE' onClick={() => dispatch(setPlaying())}>PLAY</button>
             </div> 
