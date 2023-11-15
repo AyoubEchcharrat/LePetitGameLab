@@ -60,12 +60,10 @@ export default function FindateGamemode() {
             if(realDate > copyYourDate){
                 while (realDate > copyYourDate) {
                     if(scoretoAdd < 80){
-                        console.log('-2')
                         scoretoAdd = scoretoAdd - 2
                         copyYourDate = (Number(copyYourDate) +1)
                         console.log(copyYourDate)
                     }else{
-                        console.log('-5')
                         scoretoAdd = scoretoAdd - 5
                         copyYourDate = (Number(copyYourDate) +1)
                         console.log(copyYourDate)
@@ -76,12 +74,10 @@ export default function FindateGamemode() {
             }else{
                 while (realDate < copyYourDate) {
                     if(scoretoAdd < 80){
-                        console.log('-2')
                         scoretoAdd = scoretoAdd - 2
                         copyYourDate = (Number(copyYourDate) -1)
                         console.log(copyYourDate)
                     }else{
-                        console.log('-5')
                         scoretoAdd = scoretoAdd - 5
                         copyYourDate = (Number(copyYourDate) -1)
                         console.log(copyYourDate)
@@ -154,6 +150,10 @@ export default function FindateGamemode() {
                     
                 </div>
             :
-            <div className='player-container-findate'><button className='button-style-ONE' onClick={() => dispatch(setPlaying())}>PLAY</button></div> 
+            <div className='player-container-findate'>
+                <p className='width'>
+Bienvenue dans "FinDate"! 📅 Un défi en cinq images où votre mission est de marier chaque visuel avec sa date correspondante. À la fin de chaque partie, votre score s'affiche. Trouvez les bonnes dates, faites-le à votre rythme, et visez le meilleur score! Prêt à jouer? 🚀📆</p>
+                <button className='button-style-ONE' onClick={() => dispatch(setPlaying())}>PLAY</button>
+            </div> 
     ) 
 }

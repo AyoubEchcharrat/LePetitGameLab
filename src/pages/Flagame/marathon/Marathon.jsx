@@ -98,8 +98,12 @@ export default function Marathon() {
                 {isPlaying ?
                 <button className="button-reset button-style-ONE" onClick={() => dispatch(ResetingGame())}>RESET</button>
                 : 
-                <button className="button-play button-style-ONE" onClick={() => dispatch(setIsPlaying())}>PLAY</button>}
+                <div>
+                    <p className="width">Bienvenue dans "FlaGame"! 🌍 Un défi de drapeaux où chaque bonne réponse vous rapproche du sommet. Choisissez votre difficulté, devinez le drapeau associé au nom affiché. Faites autant de bonnes réponses que possible, car une seule erreur met fin à la partie. Votre score final dévoilera votre maîtrise des drapeaux mondiaux. Prêt à montrer vos connaissances géographiques? 🚀🌐</p>
+                    <button className="button-play button-style-ONE" onClick={() => dispatch(setIsPlaying())}>PLAY</button>
 
+                </div>}
+                
                 <div className="gamemode">{gameMode}</div>
                 <div className="timer">{time +' sec'}</div>
                 <div className="score">{score}</div>

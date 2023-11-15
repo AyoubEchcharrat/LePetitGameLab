@@ -50,7 +50,7 @@
     "health": 80,
     "environment": "grotte",
     "fear": "sol dur",
-    "movement": "sous-terrain",
+    "movement": "terrestre",
     "bonus": "obscurité",
     "img": ""
   },
