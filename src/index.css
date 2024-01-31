@@ -1,14 +1,14 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
@@ -45,7 +45,7 @@ code {
   flex-direction: column;
 }
 
-.flagame{
+.flagame {
   height: 100%;
 }
 
@@ -55,17 +55,16 @@ code {
 
 /* FINDATE */
 
-.width{
-  width: 700px;
-  margin:30px auto;
-
+.width {
+  max-width: 700px;
+  margin: 30px auto;
 }
 
 #yearInput {
   width: 95vw;
 }
 
-.img-findate{
+.img-findate {
   width: 60vw;
 }
 
@@ -75,11 +74,11 @@ code {
   color: #212121;
 }
 
-.player-container-findate{
-  padding: 100px 0 0 0 ;
+.player-container-findate {
+  padding: 100px 0 0 0;
 }
 
-.button-style-ONE{
+.button-style-ONE {
   width: 80px;
   height: 35px;
   color: white;
@@ -88,18 +87,17 @@ code {
   margin: 5px;
 }
 
-.gamemode_findate{
-  padding: 0 0 75px 0 ;
+.gamemode_findate {
+  padding: 0 0 75px 0;
 }
-
 
 a {
   text-decoration: none;
   color: darkgrey;
 }
 
-@media screen and (max-width:500px) {
-  h1{
+@media screen and (max-width: 500px) {
+  h1 {
     font-size: 20px;
   }
 }

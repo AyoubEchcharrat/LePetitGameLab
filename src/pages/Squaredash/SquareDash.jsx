@@ -3,6 +3,53 @@ import React, { useEffect, useRef, useState } from 'react';
 
 const Game = () => {
   const canvasRef = useRef(null);
+
+  const [screenSize,setScreenSize] = useState({
+    width : window.innerWidth,
+    height : window.innerHeight
+  })
+
+  const [player, setPlayer] = useState({
+    x: 50,
+    y: screenSize.height - 50,
+    width: 30,
+    height: 30,
+    jumping: false,
+    jumpHeight: 100,
+    yVelocity: 0,
+  });
+
+  const updateScreenSizeOnResize = () => {
+    setScreenSize({
+      width: window.innerWidth,
+      height: window.innerHeight,
+    });
+  }
+
+  useEffect(() => {
+    window.addEventListener('resize', updateScreenSizeOnResize)
+    return () => window.removeEventListener('resize', updateScreenSizeOnResize)
+  },[])
+
+
+
+  
+
+  return (
+    <div className='container_bg'>
+      <canvas className='squaredash_canvas' ref={canvasRef} width={screenSize.width} height={screenSize.height} tabIndex="0" />
+    </div>
+  )
+};
+
+export default Game;
+
+
+
+
+
+
+/*   const canvasRef = useRef(null);
   const playerRef = useRef({
     positionX: 0,
     positionY: 0,
@@ -25,30 +72,30 @@ const Game = () => {
         { type: 'empty', height: 50 },
         { type: 'longblock', height: 100 },
         { type: 'block', height: 50 },
-      ];
+      ]; */
 
-    const currentBlockIndex = currentBlockIndexRef.current;
+/*     const currentBlockIndex = currentBlockIndexRef.current;
     let animationFrameId
     const canvas = canvasRef.current;
     const context = canvas.getContext('2d');
     const player = playerRef.current;
-    const obstacle = obstacleRef.current;
+    const obstacle = obstacleRef.current; */
 
-    const handleJump = (event) => {
+/*     const handleJump = (event) => {
         if (event.key === "ArrowUp" && (!player.isJumping || isSliding())) {
             player.isJumping = true;
             player.velocityY = player.jumpHeight * player.jumpSpeed
         }
-    };
+    }; */
 
-    const handleResetGame = (event) => {
+/*     const handleResetGame = (event) => {
         if (gameOver) {
             resetGame();
         }
-    };
-    document.addEventListener('keydown', handleJump);
-    document.addEventListener('keydown', handleResetGame);
-
+    }; */
+/*     document.addEventListener('keydown', handleJump);
+    document.addEventListener('keydown', handleResetGame); */
+/* 
     const gameLoop = () => {
         context.clearRect(0, 0, canvas.width, canvas.height);
     
@@ -221,8 +268,8 @@ const Game = () => {
     gameLoop();
   }
 };
-
-      
+ */
+/*       
 const resetGame = () => {
   setGameOver(false);
   player.isJumping = false;
@@ -237,9 +284,9 @@ const resetGame = () => {
   
   // Reset the current block index to point to the second block in the map
   currentBlockIndexRef.current = 0;
-};
+}; */
 
-
+/* 
     gameLoop();
 
     return () => {
@@ -247,9 +294,5 @@ const resetGame = () => {
         document.removeEventListener('keydown', handleResetGame);
         cancelAnimationFrame(animationFrameId);
     };
-  }, [gameOver]);
+  }, [gameOver]); */
 
-  return <canvas ref={canvasRef} width={800} height={400} tabIndex="0" />;
-};
-
-export default Game;
